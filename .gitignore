@@ -1,0 +1,34 @@
+# --- Arquivos compilados ---
+*.class
+*.jar
+*.war
+*.ear
+*.nar
+
+# --- Pastas geradas ---
+/target/          # Maven
+/build/           # Gradle
+/bin/             # Eclipse/NetBeans
+/out/             # IntelliJ IDEA
+
+# --- Dependências externas ---
+/lib/             # JARs de bibliotecas (se não for um Fat JAR)
+/dependencies/
+
+# --- Arquivos de IDE ---
+.idea/
+*.iml
+*.ipr
+*.iws
+.classpath
+.project
+.settings/
+
+# --- Sistemas operacionais ---
+.DS_Store        # Mac
+Thumbs.db        # Windows
+
+# --- Logs e arquivos temporários ---
+*.log
+*.tmp
+*.swp
