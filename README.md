@@ -11,7 +11,7 @@
 ## ✨ Sobre o Projeto
 Aplicativo desktop desenvolvido em **Java Swing** que permite conversão monetária entre:
 - **Moedas tradicionais**: BRL → USD, EUR, GBP, JPY, ARS, etc.
-- **Criptomoedas**: Bitcoin (BTC) e Ethereum (ETH)
+- **Criptomoeda**: Bitcoin (BTC).
 - **Atualizável**: Fácil inclusão de novas moedas
 
 ## 🚀 Roadmap
